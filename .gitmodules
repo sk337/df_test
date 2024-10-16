@@ -1,0 +1,9 @@
+[submodule "vendor/sstrip"]
+	path = vendor/sstrip
+	url = https://github.com/aunali1/super-strip.git
+[submodule "vendor/upx"]
+	path = vendor/upx
+	url = https://github.com/upx/upx
+[submodule "vendor/stb"]
+	path = vendor/stb
+	url = https://github.com/nothings/stb
